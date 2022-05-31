@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MirmammadGafarov
+- 👋 Hi, I’m MirmammadGafarov
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning Javascript & React
 - 💞️ I’m looking to collaborate on creating interactive web pages via Javascript
